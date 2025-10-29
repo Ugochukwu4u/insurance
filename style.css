@@ -25,7 +25,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: var(--lighter-gray);
+  background: crimson;
   position: sticky;
   top: 0;
   z-index: 30;
